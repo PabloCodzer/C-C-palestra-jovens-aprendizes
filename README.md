@@ -1,4 +1,4 @@
-# C-C++-palestra-jovens-aprendizes
+# C-C++ palestra-jovens-aprendizes
 Códigos em linguagem C/C++, demostrados por Pablo Cozer na palestra do dia 18/10/24 ( sexta-feira ). 
 Neste repositório, estão arquivados exemplos de códigos contendo:
 - Tipos básicos de dados( string, char, int, float, strings e vetores );
